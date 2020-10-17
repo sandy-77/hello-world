@@ -19,3 +19,7 @@ print("hello world")
 print("hello world")
 print("hello lalit")
 print("hello sandy")
+if collision(true)
+  {
+   no_crash()
+   }
